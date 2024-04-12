@@ -1,10 +1,9 @@
 TAX CALCULATOR
-
 This is a simple tax calculator web application using HTML, CSS, and JavaScript.
 
 
 HOW TO USE
-1. Clone the repository: git clone https://github.com/yourusername/tax-calculator.git
+1. Clone the repository: git clone https://github.com/maaswin03/Tax-Calculator.git
 2. Open index.html in your web browser.
 
    
@@ -14,12 +13,10 @@ FEATURES
 
 
 DEPLOYMENT
-
 Your web app is deployed at https://tax-calculator-project.w3spaces.com/.
 
 
 SCREENSHOTS
-
 Include screenshots of your app here.
 
 ![image](https://github.com/maaswin03/Tax-Calculator/assets/123287737/c2f240b4-609b-4426-839a-56f1c31cdac4)
